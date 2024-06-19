@@ -1,2 +1,2 @@
 # Projeto-To-Do-List
-Projeto do curso Infinity School!
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LuizGSN&repo=github-readme-stats&show_owner&theme=midnight-purple)
